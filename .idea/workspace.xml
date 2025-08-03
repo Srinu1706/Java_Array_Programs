@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb4a3489-3652-47e7-b51f-8d778ac69618" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Product_Of_Max_Three_Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Second_Largest.java" afterDir="false" />
+    <list default="true" id="bb4a3489-3652-47e7-b51f-8d778ac69618" name="Changes" comment="Added 2 New Array Programs">
+      <change afterPath="$PROJECT_DIR$/src/Find_Duplicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Find_Missing_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Missing_Number.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -38,8 +42,11 @@
     "Application.Avg_array.executor": "Run",
     "Application.CopyArray.executor": "Run",
     "Application.Even_odd_Count.executor": "Run",
+    "Application.Find_Duplicate.executor": "Run",
+    "Application.Find_Missing_Number.executor": "Run",
     "Application.MaxElement.executor": "Run",
     "Application.MinElement.executor": "Run",
+    "Application.Missing_Number.executor": "Run",
     "Application.Product_Of_Max_Three_Numbers.executor": "Run",
     "Application.Remove_Duplicants.executor": "Run",
     "Application.Search_Element.executor": "Run",
