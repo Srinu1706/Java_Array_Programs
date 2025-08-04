@@ -1,6 +1,7 @@
 public class Missing_Number {
     public static void main(String[] args) {
-        int[] arr = {1, 2, 4, 6, 3, 7, 8, 10, 5};
+        int[] arr = { 1,2,3,5};
+//        int[] arr = { 5,6,8};
         int expectedsum;
         int n=arr.length+1;
         expectedsum=n*(n+1)/2;

@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb4a3489-3652-47e7-b51f-8d778ac69618" name="Changes" comment="Added 2 New Array Programs">
-      <change afterPath="$PROJECT_DIR$/src/Find_Duplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Find_Missing_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Missing_Number.java" afterDir="false" />
+    <list default="true" id="bb4a3489-3652-47e7-b51f-8d778ac69618" name="Changes" comment="Added 3 New Array Programs">
+      <change afterPath="$PROJECT_DIR$/src/Count_Pairs_with_a_Given_Difference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Move_Zeros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PairSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Find_Missing_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Find_Missing_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Missing_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Missing_Number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Srinu1706&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Srinu1706/Java_Array_Programs.git&quot;,
+    &quot;accountId&quot;: &quot;a922dcea-4615-4587-bb33-e1337eb3aaac&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -41,12 +55,15 @@
     "Application.Array_Reverse.executor": "Run",
     "Application.Avg_array.executor": "Run",
     "Application.CopyArray.executor": "Run",
+    "Application.Count_Pairs_with_a_Given_Difference.executor": "Run",
     "Application.Even_odd_Count.executor": "Run",
     "Application.Find_Duplicate.executor": "Run",
     "Application.Find_Missing_Number.executor": "Run",
     "Application.MaxElement.executor": "Run",
     "Application.MinElement.executor": "Run",
     "Application.Missing_Number.executor": "Run",
+    "Application.Move_Zeros.executor": "Run",
+    "Application.PairSum.executor": "Run",
     "Application.Product_Of_Max_Three_Numbers.executor": "Run",
     "Application.Remove_Duplicants.executor": "Run",
     "Application.Search_Element.executor": "Run",
@@ -69,6 +86,15 @@
       <option name="presentableId" value="Default" />
       <updated>1754025753992</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added 3 New Array Programs">
+      <option name="closed" value="true" />
+      <created>1754243186059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754243186059</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,6 +107,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added 3 New Array Programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added 3 New Array Programs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
