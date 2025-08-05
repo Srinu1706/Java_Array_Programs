@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb4a3489-3652-47e7-b51f-8d778ac69618" name="Changes" comment="Added 3 New Array Programs">
-      <change afterPath="$PROJECT_DIR$/src/Insert_An_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Remove_Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Remove_all_occurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Remove_element_at_a_given_index.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Left_Shift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Right_Shift.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +57,7 @@
     "Application.Find_Duplicate.executor": "Run",
     "Application.Find_Missing_Number.executor": "Run",
     "Application.Insert_An_Element.executor": "Run",
+    "Application.Left_Shift.executor": "Run",
     "Application.MaxElement.executor": "Run",
     "Application.MinElement.executor": "Run",
     "Application.Missing_Number.executor": "Run",
@@ -69,6 +68,7 @@
     "Application.Remove_Element.executor": "Run",
     "Application.Remove_all_occurrences.executor": "Run",
     "Application.Remove_element_at_a_given_index.executor": "Run",
+    "Application.Right_Shift.executor": "Run",
     "Application.Search_Element.executor": "Run",
     "Application.Second_Largest.executor": "Run",
     "Application.Sum_Digit.executor": "Run",
@@ -105,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754312348403</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added 3 New Array Programs">
+      <option name="closed" value="true" />
+      <created>1754376501588</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1754376501588</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +128,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added 4 New Array Programs" />
     <MESSAGE value="Added 3 New Array Programs" />
     <option name="LAST_COMMIT_MESSAGE" value="Added 3 New Array Programs" />
   </component>
