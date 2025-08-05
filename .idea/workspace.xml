@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb4a3489-3652-47e7-b51f-8d778ac69618" name="Changes" comment="Added 3 New Array Programs">
-      <change afterPath="$PROJECT_DIR$/src/Count_Pairs_with_a_Given_Difference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Move_Zeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PairSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Insert_An_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Remove_Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Remove_all_occurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Remove_element_at_a_given_index.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Find_Missing_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Find_Missing_Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Missing_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Missing_Number.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +58,7 @@
     "Application.Even_odd_Count.executor": "Run",
     "Application.Find_Duplicate.executor": "Run",
     "Application.Find_Missing_Number.executor": "Run",
+    "Application.Insert_An_Element.executor": "Run",
     "Application.MaxElement.executor": "Run",
     "Application.MinElement.executor": "Run",
     "Application.Missing_Number.executor": "Run",
@@ -66,6 +66,9 @@
     "Application.PairSum.executor": "Run",
     "Application.Product_Of_Max_Three_Numbers.executor": "Run",
     "Application.Remove_Duplicants.executor": "Run",
+    "Application.Remove_Element.executor": "Run",
+    "Application.Remove_all_occurrences.executor": "Run",
+    "Application.Remove_element_at_a_given_index.executor": "Run",
     "Application.Search_Element.executor": "Run",
     "Application.Second_Largest.executor": "Run",
     "Application.Sum_Digit.executor": "Run",
@@ -94,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754243186059</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added 3 New Array Programs">
+      <option name="closed" value="true" />
+      <created>1754312348403</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754312348403</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
